@@ -23,4 +23,6 @@ When we read a sentence in a book, we use the context built and saved from previ
 
 ## Medium Article
 
+https://medium.com/@vipul.koti333/attention-for-your-transformers-632cc23ca973
+
 ## Code
